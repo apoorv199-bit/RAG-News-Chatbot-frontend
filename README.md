@@ -31,8 +31,8 @@ A modern React-based frontend for the RAG-powered news chatbot. Features a clean
 
 ```bash
 # Clone and install
-git clone <your-repo>
-cd news-chatbot-frontend
+git clone https://github.com/apoorv199-bit/RAG-News-Chatbot-frontend.git
+cd rag-news-chatbot-frontend
 npm install
 
 # Setup environment
@@ -40,16 +40,6 @@ echo "VITE_API_BASE_URL=http://localhost:8186" > .env
 
 # Start development server
 npm run dev
-```
-
-### Build for Production
-
-```bash
-# Create production build
-npm run build
-
-# Preview production build
-npm run preview
 ```
 
 ## 📁 Project Structure
@@ -291,11 +281,9 @@ Open browser dev tools to see:
 ### Data Handling
 
 - No sensitive data stored in localStorage
-- Session-based authentication
-- Secure API communication
 
 ---
 
-**Live Demo**: [https://rag-news-chatbot.vercel.app/]
-**Backend Repo**: [https://github.com/apoorv199-bit/RAG-News-Chatbot-backend]
+**Live Demo**: https://rag-news-chatbot.vercel.app/  
+**Backend Repo**: https://github.com/apoorv199-bit/RAG-News-Chatbot-backend  
 **Development Server**: `http://localhost:5173`
