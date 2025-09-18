@@ -296,6 +296,6 @@ Open browser dev tools to see:
 
 ---
 
-**Live Demo**: [Your deployment URL]  
-**Backend Repo**: [Your backend repository]  
+**Live Demo**: [https://rag-news-chatbot.vercel.app/]
+**Backend Repo**: [https://github.com/apoorv199-bit/RAG-News-Chatbot-backend]
 **Development Server**: `http://localhost:5173`
